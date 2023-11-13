@@ -1,0 +1,4 @@
+# UNIVERSAL SELECTOR
+
+You can use *{} to select and alter every element in the file.
+
